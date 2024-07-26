@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="signingui.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtUic Include="signingui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtMoc Include="signingui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClCompile Include="signingui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reviewgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="choosenpricegui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="createbuyeraccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="randomlistgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="createselleraccountgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="visagui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shippinggui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="searchgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sortedbygui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="installmentgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addremovecarsgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="reviewgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="choosenpricegui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="createbuyeraccount.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="randomlistgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="createselleraccountgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="visagui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="shippinggui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="searchgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="sortedbygui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="installmentgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="addremovecarsgui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="reviewgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="choosenpricegui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="createbuyeraccount.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="randomlistgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="createselleraccountgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="visagui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="shippinggui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="searchgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="sortedbygui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="installmentgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="addremovecarsgui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="insurancegui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Customer Accounts.txt" />
+    <Text Include="Customer Passwords.txt" />
+    <Text Include="Seller Accounts.txt" />
+    <Text Include="Seller Passwords.txt" />
+    <Text Include="..\..\..\..\Downloads\models cars(prices)sh.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Customer Accounts.csv" />
+  </ItemGroup>
+</Project>

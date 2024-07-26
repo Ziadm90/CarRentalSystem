@@ -1,0 +1,65 @@
+- 400,000 to 500,000:
+BYD F3, Mitsubishi Attrage, Nissan Sunny, Chevrolet Optra, Hyundai Accent RB
+
+- 500,000 to 600,000:
+, Renault Logan, Toyota Rush, Toyota Rumion, Renault Sandero, Peugeot 301, Renault Duster, Chevrolet Malibu
+
+- 600,000 to 700,000:
+, Ford Ecosport, MG 5, Chery Tiggo 7, Nissan Juke, MG ZS, Hyundai Elantra HD, Nissan Sentra, Toyota Belta
+
+- 700,000 to 800,000:
+, MG 6, Subaru Impreza
+
+- 800,000 to 900,000:
+, Honda City, Toyota Corolla
+
+- 900,000 to 1,000,000:
+, Fiat Tipo, Gelly Cool Ray, Chery Tiggo 7 Pro
+
+- 1,000,000 to 1,100,000:
+, Kia Xceed, Subaru XV
+
+- 1,100,000 to 1,200,000:
+, Jeep Renegade, Mitsubishi Xpander, Gelly Okavango
+
+- 1,200,000 to 1,300,000:
+, Chery Tiggo 8, BMW X1
+
+- 1,300,000 to 1,400,000:
+, Audi Q2, DS 7
+
+- 1,400,000 to 1,500,000:
+, BMW 118, Volkswagen T-Roc
+
+- 1,500,000 to 1,600,000:
+, Audi A3, Honda CR-V, Peugeot 3008
+
+- 1,600,000 to 1,700,000:
+, Mini Cooper Countryman, Audi Q3
+
+- 1,700,000 to 1,800,000:
+, Mercedes-Benz C180, Mini Cooper, Audi A4
+
+- 1,800,000 to 1,900,000:
+, Jeep Wrangler, Audi A5, Mercedes-Benz GLC200, Mercedes-Benz C200
+
+- 1,900,000 to 2,000,000:
+, MG HS, Mercedes-Benz A-Class, Mercedes-Benz GLA, Mercedes-Benz CLA200
+
+- 2,000,000 to 2,500,000:
+, Land Rover Velar, Audi Q7, Volvo XC40
+
+- 2,500,000 to 2,750,000:
+, Lexus ES 350
+
+- 2,900,000 to 3,200,000:
+, Volvo XC60, BMW X3, BMW X4
+
+- 3,000,000 to 3,600,000:
+, Audi Q7, Mercedes-Benz GLS
+
+- 3,200,000 to 4,000,000:
+, BMW X5, BMW X6
+
+- 4,100,000 to 4,800,000:
+, Volvo XC90, Land Rover Range Rover, Lexus RX

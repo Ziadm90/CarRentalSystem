@@ -1,0 +1,22 @@
+﻿  moc signingui.h
+  choosenpricegui.cpp
+  createbuyeraccount.cpp
+  createselleraccountgui.cpp
+  installmentgui.cpp
+  main.cpp
+  randomlistgui.cpp
+  reviewgui.cpp
+  searchgui.cpp
+  signingui.cpp
+  sortedbygui.cpp
+  visagui.cpp
+C:\Users\zyada\source\repos\Free Think\Free Think\searchgui.h(42): warning C4715: 'Search::findCar': not all control paths return a value
+  moc_choosenpricegui.cpp
+  moc_createbuyeraccount.cpp
+  moc_createselleraccountgui.cpp
+  moc_randomlistgui.cpp
+  moc_reviewgui.cpp
+  moc_searchgui.cpp
+  moc_signingui.cpp
+  moc_sortedbygui.cpp
+  Free Think.vcxproj -> C:\Users\zyada\source\repos\Free Think\x64\Debug\Free Think.exe

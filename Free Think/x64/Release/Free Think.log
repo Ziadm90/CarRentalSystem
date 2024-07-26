@@ -1,0 +1,56 @@
+﻿  Reading Qt configuration (D:/Qt/6.5.0/msvc2019_64/bin/qmake)
+  uic addremovecarsgui.ui
+  uic choosenpricegui.ui
+  uic createbuyeraccount.ui
+  uic createselleraccountgui.ui
+  uic installmentgui.ui
+  uic insurancegui.ui
+  uic randomlistgui.ui
+  uic reviewgui.ui
+  uic searchgui.ui
+  uic shippinggui.ui
+  uic signingui.ui
+  uic sortedbygui.ui
+  uic visagui.ui
+  rcc signingui.qrc
+  moc signingui.h
+  moc reviewgui.h
+  moc choosenpricegui.h
+  moc createbuyeraccount.h
+  moc randomlistgui.h
+  moc createselleraccountgui.h
+  moc visagui.h
+   RCC: Warning: No resources in 'C:\Users\zyada\source\repos\Free Think\Free Think\signingui.qrc'.
+  moc shippinggui.h
+  moc searchgui.h
+  moc sortedbygui.h
+  moc installmentgui.h
+  moc addremovecarsgui.h
+  addremovecarsgui.cpp
+  installmentgui.cpp
+  searchgui.cpp
+  shippinggui.cpp
+  sortedbygui.cpp
+  visagui.cpp
+  choosenpricegui.cpp
+  createbuyeraccount.cpp
+  createselleraccountgui.cpp
+  randomlistgui.cpp
+  reviewgui.cpp
+  signingui.cpp
+  main.cpp
+C:\Users\zyada\source\repos\Free Think\Free Think\searchgui.h(42): warning C4715: 'Search::findCar': not all control paths return a value
+  qrc_signingui.cpp
+  moc_signingui.cpp
+  moc_reviewgui.cpp
+  moc_choosenpricegui.cpp
+  moc_createbuyeraccount.cpp
+  moc_randomlistgui.cpp
+  moc_createselleraccountgui.cpp
+  moc_visagui.cpp
+  moc_shippinggui.cpp
+  moc_searchgui.cpp
+  moc_sortedbygui.cpp
+  moc_installmentgui.cpp
+  moc_addremovecarsgui.cpp
+  Free Think.vcxproj -> C:\Users\zyada\source\repos\Free Think\x64\Release\Free Think.exe
